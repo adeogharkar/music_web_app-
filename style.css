@@ -360,30 +360,3 @@ opacity: 1;
 transform: scaleX(1);
 transition: width 300ms ease-in-out, transform 300ms ease-in-out;
 }
-
-
-/* @media screen and (max-width:1024px){
-  .music-container{
-    width: 45%;
-  }
-  .button-container button{
-    width: 17%;
-  }
-}
-@media screen and (max-width:825px){
-  .button-container button{
-    width: 20%;
-  }
-}
-@media screen and (max-width:680px){
-  .music-container{
-    width: 50%;
-  }
-  
-}
-@media screen and (max-width:425px){
-  .music-container{
-    width: 55%;
-  }
-  
-} */
